@@ -21,10 +21,10 @@ function generateMarkdown(data) {
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Testing](#testing)
-  - [Licensing](#licensing)
-  - [Contact Information](#contact-information)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [License](#licensing)
+  - [Questions](#questions)
 
   ## Installation:
   ${data.installation}
@@ -32,16 +32,17 @@ function generateMarkdown(data) {
   ## Usage:
   ${data.usage}
 
-  ## Contribution:
+  ## Contributing:
   ${data.contributing}
 
-  ## Testing:
+  ## Tests:
   ${data.testing}
 
   ## License:
   ${data.license}
 
-  ## Additional Info:
+  ## Questions:
+  If you have any questions on this program, feel free to contact me here:
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: ${data.email}
 `;

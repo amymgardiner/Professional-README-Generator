@@ -88,12 +88,14 @@ const questions = [
           }
         }
     },
+    // license options that I got from https://choosealicense.com/
     {
         type: 'checkbox',
         name: 'license',
         message: 'Choose a license for your project. (Please select at least one of the options.)',
         choices: ['MIT', 'GNU General Public', 'Apache', 'ISC', 'Mozilla Public', 'Boost Software', 'The Unlicense', 'None']
     },
+    // github username
     {
         type: 'input',
         name: 'github',
@@ -107,6 +109,7 @@ const questions = [
           }
         }
     },
+    // email address
     {
         type: 'input',
         name: 'email',
