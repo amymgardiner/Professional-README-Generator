@@ -144,7 +144,7 @@ function init() {
 
 // Function call to initialize app
 init()
-    .then(answers => generateMarkdown(answers))
+    .then(userAnswers => generateMarkdown(userAnswers))
     .then(pageMD => writeToFile('README.md', pageMD))
     .catch(err => {
         console.log(err)
