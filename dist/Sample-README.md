@@ -3,6 +3,7 @@
 
   ## License:
   The application is covered under the following license:
+
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   [MIT] (https://choosealicense.com/licenses/mit)

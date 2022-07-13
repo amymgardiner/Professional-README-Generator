@@ -35,8 +35,7 @@ function renderLicenseSection(license) {
     return '';
   } else {
     return `## License:
-  The application is covered under the following license:
-  ${renderLicenseBadge(license)}`;
+  The application is covered under the following license:`;
   }
 }
 
@@ -46,6 +45,8 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ${renderLicenseSection(data.license)}
+
+  ${renderLicenseBadge(data.license)}
 
   ${renderLicenseLink(data.license)}
 
