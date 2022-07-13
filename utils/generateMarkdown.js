@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   if (license === 'None') {
     return '';
   } else {
-    return `[![License](https://img.shields.io/badge/License-${license}-blue.svg)]`;
+    return `![License](https://img.shields.io/badge/License-${license}-blue.svg)`;
   }
 }
 
@@ -12,17 +12,17 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'MIT') {
-    return `[${license}](https://choosealicense.com/licenses/mit)`;
+    return `[${license}] (https://choosealicense.com/licenses/mit)`;
   } else if (license === 'GNU General Public') {
-    return `[${license}](https://choosealicense.com/licenses/gpl-3.0/)`;
+    return `[${license}] (https://choosealicense.com/licenses/gpl-3.0/)`;
   } else if (license === 'Apache') {
-    return `[${license}](https://choosealicense.com/licenses/apache-2.0/)`;
+    return `[${license}] (https://choosealicense.com/licenses/apache-2.0/)`;
   } else if (license === 'Mozilla Public') {
-    return `[${license}](https://choosealicense.com/licenses/mpl-2.0/)`;
+    return `[${license}] (https://choosealicense.com/licenses/mpl-2.0/)`;
   } else if (license === 'Boost Software') {
-    return `[${license}](https://choosealicense.com/licenses/bsl-1.0/)`;
+    return `[${license}] (https://choosealicense.com/licenses/bsl-1.0/)`;
   } else if (license === 'The Unlicense') {
-    return `[${license}](https://choosealicense.com/licenses/unlicense/)`;
+    return `[${license}] (https://choosealicense.com/licenses/unlicense/)`;
   } else {
     return '';
   }

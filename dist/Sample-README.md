@@ -3,9 +3,9 @@
 
   ## License:
     The application is covered under the following license:
-    [MIT](https://choosealicense.com/licenses/mit)
+    [MIT] (https://choosealicense.com/licenses/mit)
 
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Table of Contents 
   - [Description](#description)
