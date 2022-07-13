@@ -2,8 +2,8 @@
   # Jest Another RPG
 
   ## License:
-    The application is covered under the following license:
-    [MIT] (https://choosealicense.com/licenses/mit)
+  The application is covered under the following license:
+  [MIT] (https://choosealicense.com/licenses/mit)
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
