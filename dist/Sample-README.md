@@ -1,7 +1,10 @@
-# movieJuice
+
+  # Jest Another RPG
+
+  
 
   ## Description:
-  Type in any movie and then receive a list of facts and reviews for that movie.
+  An RPG that the user plays in the command line.
 
   ## Table of Contents 
   - [Description](#description)
@@ -13,19 +16,18 @@
   - [Questions](#questions)
 
   ## Installation:
-  Run in the browser after clicking the link.
+  Clone the github repository and then in the command line, enter npm install.
 
   ## Usage:
-  Click the link to run the application.
+  To play the game, after cloning and installing the needed code, type node app into your command line and the game will start.
 
   ## Contributing:
-  Contributors were Dustin Martin, Bobby Bridges, and Amy Gardiner
+  Contribution to this project is not needed at this time.
 
   ## Tests:
-  Try it out in the browser.
+  To test this project, in the command line type npm run test. To test a specific object, like the Player, you can instead type npm run test Player.
 
-  ## License:
-  None
+  
 
   ## Questions:
   If you have any questions on this program, feel free to contact me here:

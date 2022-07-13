@@ -91,10 +91,10 @@ const questions = [
     },
     // license options that I got from https://choosealicense.com/
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Choose a license for your project. (Please select at least one of the options.)',
-        choices: ['MIT', 'GNU General Public', 'Apache', 'ISC', 'Mozilla Public', 'Boost Software', 'The Unlicense', 'None']
+        choices: ['MIT', 'GNU General Public', 'Apache', 'Mozilla Public', 'Boost Software', 'The Unlicense', 'None']
     },
     // github username
     {
