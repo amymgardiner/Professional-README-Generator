@@ -20,16 +20,16 @@
   An RPG that the user plays in the command line.
 
   ## Installation:
-  Clone the github repository and then in the command line, enter npm install.
+  Clone the github repository, go to the file's location in the terminal, and then type in the command "npm install".
 
   ## Usage:
-  To play the game, after cloning and installing the needed code, type node app into your command line and the game will start.
+  While still in the file in the command line, type "node app" and the game will run!
 
   ## Contributing:
-  Contribution to this project is not needed at this time.
+  Contribution is not needed at the moment, but reach out if you have any questions or ideas.
 
   ## Tests:
-  To test this project, in the command line type npm run test. To test a specific object, like the Player, you can instead type npm run test Player.
+  Type "npm run test" in the command line to test all objects, or to test a specific object like the Player, type in "npm run test Player".
 
   ## Questions:
   If you have any questions on this program, feel free to contact me here:
