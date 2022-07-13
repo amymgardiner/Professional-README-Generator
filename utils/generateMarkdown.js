@@ -45,10 +45,9 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseSection(data.license)}
 
-  ## Description:
-  ${data.description}
+  ${renderLicenseBadge(data.license)}
 
   ## Table of Contents 
   - [Description](#description)
@@ -56,8 +55,10 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - [License](#licensing)
   - [Questions](#questions)
+
+  ## Description:
+  ${data.description}
 
   ## Installation:
   ${data.installation}
@@ -70,8 +71,6 @@ function generateMarkdown(data) {
 
   ## Tests:
   ${data.testing}
-
-  ${renderLicenseSection(data.license)}
 
   ## Questions:
   If you have any questions on this program, feel free to contact me here:
