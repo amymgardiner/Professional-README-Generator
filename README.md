@@ -39,3 +39,10 @@ node index.js
 ## Example
 
 An example of the finished README project can be seen in the "dist" folder in my github repository, under the name "Sample-README.md"
+
+
+
+
+https://user-images.githubusercontent.com/99151426/178640607-984d4a4a-de62-4519-9518-9949e2ff4140.mp4
+
+
