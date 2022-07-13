@@ -22,9 +22,11 @@ Finally, when they enter their username and email, then this is added to the sec
 
 ## How to use it
 
-To use this program, you would first need to clone my github repository (https://github.com/amymgardiner/Professional-README-Generator).
+To use this program, you would first need to clone my GitHub repository:
+(https://github.com/amymgardiner/Professional-README-Generator).
 
-If you don't already, you would also need to download and install Node.js. You can read how to do that here: (https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs)
+If you don't already, you would also need to download and install Node.js. You can read how to do that here:
+(https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs)
 
 Once cloned, open up your command line terminal and go to the file containing the repository on your computer. Then type in the following command:
 
@@ -39,5 +41,7 @@ node index.js
 ## Example
 
 An example of the finished README project can be seen in the "dist" folder in my github repository, under the name "Sample-README.md"
+
+Here is a video I made of myself using the program and the finished result shown in VS Code and on my GitHub repository.
 
 https://user-images.githubusercontent.com/99151426/178640607-984d4a4a-de62-4519-9518-9949e2ff4140.mp4
