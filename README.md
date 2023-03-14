@@ -23,7 +23,7 @@ Finally, when they enter their username and email, then this is added to the sec
 ## How to use it
 
 To use this program, you would first need to clone my GitHub repository:
-(https://github.com/amymgardiner/Professional-README-Generator).
+(https://github.com/amymgardiner/Professional-README-Generator)
 
 If you don't already, you would also need to download and install Node.js. You can read how to do that here:
 (https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs)
